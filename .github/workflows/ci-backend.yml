@@ -1,4 +1,4 @@
-name: Primeiro Workflow
+name: CI Back-end
 on: [push]
 jobs:
   primeiro-job:
